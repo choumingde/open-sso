@@ -61,6 +61,11 @@
     
     1.需要实现 cn.cmd.opensso.server.service.impl.AppServiceImpl 实现接入应用appId和appSecret
     2.需要实现 cn.cmd.opensso.server.service.impl.UserServiceImpl 实现用户账号管理
+
+3.修改host文件
+
+    127.0.0.1 demo.cmd.cn #测试demo访问地址(http://demo.cmd.cn:8082/demo)
+    127.0.0.1 opensso.cmd.cn #sso服务器地址(http://opensso.cmd.cn:8080)
     
 
 #### 使用说明
