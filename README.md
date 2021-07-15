@@ -2,7 +2,7 @@
 
 #### 介绍
 {**open-sso统一登录服务/单点登录/集群**
-基于Spring Boot 搭建的sso统一登录平台 [https://gitee.com/choumingde/open-sso](https://gitee.com/choumingde/open-sso)}
+基于Spring Boot 搭建的sso统一登录平台 [https://github.com/choumingde/open-sso](https://github.com/choumingde/open-sso)}
 
 #### 软件架构
     Java 1.8
@@ -76,7 +76,7 @@
 
 #### 参与贡献
 
-    1.  参考 [https://gitee.com/a466350665/smart-sso?_from=gitee_search](https://gitee.com/a466350665/smart-sso?_from=gitee_search) 致敬
+    
 
 #### 特技
 
