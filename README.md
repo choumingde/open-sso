@@ -8,6 +8,7 @@
     Java 1.8
     Maven 3.6.3
     Spring Boot 2.1.0.RELEASE
+    Redis 6.2.1
 
 #### 安装教程
 
